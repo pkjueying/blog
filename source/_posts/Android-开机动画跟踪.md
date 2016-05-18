@@ -1,7 +1,7 @@
 ---
 title: ' android4.2 开机动画跟踪'
 comment: true
-date: 2016-05-18 17:44:33
+date: 2014-04-11 17:44:33
 categories: [old blog]
 tags:
 description: Android系统开机动画简析.

@@ -2,7 +2,7 @@
 title: yii项目实践
 toc: true
 comment: true
-date: 2016-05-18 15:49:18
+date: 2012-11-18 15:49:18
 categories: [old blog]
 tags: [Yii]
 description: 在mobileportal项目中使用Yii总结
