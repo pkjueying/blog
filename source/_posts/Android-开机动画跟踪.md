@@ -1,5 +1,5 @@
 ---
-title: ' android4.2 开机动画跟踪'
+title: ' Android4.2 开机动画跟踪'
 comment: true
 date: 2014-04-11 17:44:33
 categories: [old blog]
