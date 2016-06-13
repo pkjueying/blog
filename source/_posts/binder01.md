@@ -9,7 +9,6 @@ description: 理解Binder对于理解整个Android系统有着非常重要的作
 
 ---
 
-# Binder 
 
 ### 本文目标
 
